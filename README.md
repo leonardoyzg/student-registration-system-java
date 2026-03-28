@@ -15,6 +15,7 @@ The system allows users to register student data, clear input fields, and displa
 ## Technologies Used
 - Java
 - Java Swing (GUI)
+- NetBeans GUI Builder
 - Object-Oriented Programming (OOP)
 
 ## Author
